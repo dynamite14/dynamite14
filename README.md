@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dynamite14
+- 👀 I’m interested in coding and gaming
+- 🌱 I’m currently learning html and how to make websites from scratch
+- 📫 You can reach me by filling out the contact form on act25.com
